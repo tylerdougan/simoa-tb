@@ -1,0 +1,12 @@
+# 1-24,Sample Barcode Number ,Result,Notes
+1,FIND 05 01 0202 U23 01,Negative,
+2,1610614301,Negative,
+3,FIND 05 01 0073 U23 01,Negative,
+4,FIND 05 01 0074 U23 06,Negative,
+5,FIND 05 61 0072 U23 03,Negative,
+6,FIND 01 14 4310 U 02,Negative,
+7,FIND 01 14 4308 U 02,Negative,
+8,FIND 05 61 0079 U23 01,Negative,
+9,FIND 01 14 4704 U 02,Negative,
+10,1610655301,Negative,
+11,1610589301,Negative,

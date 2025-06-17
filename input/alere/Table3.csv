@@ -1,0 +1,26 @@
+# 1-25,Sample Barcode Number,Result,Notes
+1,FIND 05 01 0031 U23 01,Negative,
+2,FIND 05 01 0092 U23 04,Negative,
+3,FIND 05 01 0024 U23 06,Negative,
+4,FIND 05 01 0179 U23 01,Negative,
+5,FIND 05 01 0133 U23 04,Negative,
+6,FIND 05 01 0042 U23 01,Negative,
+7,FIND 05 01 0089 U23 04,Negative,
+8,FIND 05 61 0189 U23 01,Negative,super dark blood orange color (maybe urine mixed with blood?)
+9,FIND 05 61 0188 U23 01,Negative,
+10,FIND 05 61 0193 U23 01,Negative,
+11,FINF 05 01 0095 U23 01,Negative,
+12,FIND 05 61 0104 U23 01,Negative,
+13,FIND 05 01 0115 U23 01,Negative,super dark yellow
+14,FIND 05 61 0371 U23 01,Positive,very faint positive line
+15,FIND 05 61 0179 U23 01,Negative,
+16,FIND 05 61 0201 U23 01,Negative,
+17,FIND 05 01 0023 U23 06,Negative,
+18,FIND 05 01 0131 U23 06,Negative,
+19,FIND 05 61 0488 U23 05,Negative,
+20,FIND 05 01 0009 U23 01,Negative,
+21,FIND 05 01 0021 U23 06,Negative,
+22,FIND 05 01 0029 U23 01,Negative,
+23,FIND 05 61 0353 U23 01,Negative,
+24,FIND 05 01 0088 U23 06,Negative,
+25,FIND 05 01 0118 U23 01,Negative,

@@ -1,0 +1,25 @@
+# 1-24,Sample Barcode Number ,Result,Notes
+1,FIND 05 61 0089 U23 01,Negative,
+2,FIND 05 61 0437 U23 01,Negative,dark sample
+3,FIND 01 01 8138 U 01,Negative,
+4,FIND 05 61 0318 U23 01,Negative,
+5,FIND 05 61 0484 U23 05,Negative,
+6,FIND 01 01 8119 U 01,Negative,
+7,FIND 05 61 0291 U23 01,Negative,
+8,FIND 05 61 0080 U23 01,Negative,
+9,FIND 01 14 4358 U 02,Negative,
+10,FIND 05 61 0513 U23 05,Negative,
+11,FIND 05 61 0275 U23 01,Negative,
+12,FIND 01 14 4671 U 01,Negative,
+13,FIND 05 61 0518 U23 02,Positive,very faint
+14,FIND 01 14 4692 U 02,Negative,
+15,FIND 05 61 0082 U23 01,Positive,very faint
+16,FIND 05 61 0346 U23 01,Negative,
+17,FIND 05 61 0390 U23 05,Negative,
+18,FIND 05 61 0087 U23 01,Negative,
+19,FIND 05 61 0490 U23 05,Negative,
+20,FIND 05 61 0219 U23 01,Negative,
+21,FIND 05 61 0215 U23 01,Negative,
+22,FIND 05 61 0460 U23 01,Negative,
+23,FIND 01 14 4896 U 02,Negative,
+24,FIND 05 61 0077 U23 01,Negative,
