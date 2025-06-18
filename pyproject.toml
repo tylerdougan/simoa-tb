@@ -28,4 +28,4 @@ dependencies = [
 
 [project.urls]
 source = "https://github.com/tylerdougan/simoa-tb"
-documentation = "https://doi.org/10.1101/2025.06.10.25329330"
+homepage = "https://doi.org/10.1101/2025.06.10.25329330"

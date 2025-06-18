@@ -22,6 +22,10 @@ Tyler J. Dougan† ¹ ² ³ ⁴ ⁵, Shira Roth† ¹ ² ³, Liangxia Xie¹ ² �
 
 ## Availability
 
+This work is available as a preprint on medRxiv:
+
+- Tyler J. Dougan, Shira Roth, Liangxia Xie, Sydney D’Amaddio, and David R. Walt, “A Single-Molecule Array Urine Test for Tuberculosis: A Case-Control Diagnostic Accuracy Study.” medRxiv (2025). https://doi.org/10.1101/2025.06.10.25329330.
+
 A preliminary version of this work appears in the following dissertation:
 
-Tyler J. Dougan, “Single-molecule diagnostics to support curative interventions for tuberculosis and HIV,” Massachusetts Institute of Technology, Cambridge, MA (2024), pp. 30–52. https://hdl.handle.net/1721.1/157100
+- Tyler J. Dougan, “Single-molecule diagnostics to support curative interventions for tuberculosis and HIV,” Massachusetts Institute of Technology, Cambridge, MA (2024), pp. 30–52. https://hdl.handle.net/1721.1/157100
