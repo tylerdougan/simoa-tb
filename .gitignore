@@ -1,6 +1,5 @@
 .venv/
 __pycache__/
-/src/assay-validation.ipynb
 *.pyc
 *.pdf
 *.pkl
