@@ -97,10 +97,18 @@ class Barcode2(BarcodeBase):
             raise TypeError(f"Expected str or numeric, got {type(x)}: {x}")
         return x.replace(" ", "-").strip()
 
+    @staticmethod
+    def _first_digit(x: str):
+        s = re.search(r"\d", x)
+        if s is not None:
+            return s.start()
+        else:
+            raise ValueError(f"Invalid barcode: {x} has no digits")
+
     @classmethod
     def _find_splits(cls, x: str) -> tuple[int, int, int, int, int, int]:
         len_gt_12 = int(len(x) > 12)
-        s0 = re.search(r"\d", x).start()
+        s0 = cls._first_digit(x)
         leading_zero = int(x[s0] == "0")
         s1 = s0 + 1 + leading_zero + len_gt_12
         s2 = s1 + 2
@@ -108,9 +116,9 @@ class Barcode2(BarcodeBase):
         s4 = -2 - len_gt_12
         return (s0, s1, s2, s3, s4)
 
-    @staticmethod
-    def _parse(x: str):
-        s1a = re.search(r"\d", x).start()
+    @classmethod
+    def _parse(cls, x: str):
+        s1a = cls._first_digit(x)
         s0b = s1a - 1 if (s1a > 0) and (x[s1a - 1] == "-") else s1a
         s1b = x.find("-", s1a, s1a + 4)
         if s1b > -1:  # there is a delimiter between study and site
